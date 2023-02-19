@@ -1,0 +1,5 @@
+id	Flower	Tree	Bird
+Specimen 1	15.2	1700.9	28.9
+Specimen 2	13.5	1800	23.3
+Specimen 3	14.2	1300.6	27.5
+Specimen 4	11.8	1500	27.6
