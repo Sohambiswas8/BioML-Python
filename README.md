@@ -23,3 +23,4 @@ The lessons:
 *   T-test and Heatmap with python
 
 Recently developed 'molplotly' package will also be used for molecular data analysis.
+For image settings, an R-script is written to manipulate pixel and changing contrast, brightness and color of images generated.
